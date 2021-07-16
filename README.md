@@ -1,4 +1,4 @@
-### Olá, meu nome é Lanna Feitoza!
+### Olá, meu nome é Lanna Feitoza!👋
 
 Tenho 18 anos, sou estudante de Engenharia de Software, estou no segundo período na Faculdade FUCAPI.
 
