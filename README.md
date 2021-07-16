@@ -2,7 +2,7 @@
 
 Tenho 18 anos, sou estudante de Engenharia de Software, estou no segundo período na Faculdade FUCAPI.
 
-![Lanna Feitoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=LannaFeitoza&show_icons=true&theme=dracula)
+<a><img src="https://github-readme-stats.vercel.app/api?username=LannaFeitoza&show_icons=true&theme=dracula"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LannaFeitoza&layout=compact&show_icons=true&theme=dracula)](https://github.com/LannaFeitoza/github-readme-stats)
 
