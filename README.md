@@ -4,10 +4,9 @@
 
 <hr>
 
-<div align=center> 
-  <a href="https://github.com/LannaFeitoza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LannaFeitoza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LannaFeitoza&layout=compact&langs_count=7&theme=radical"></a> 
-</div>
+
+<a href="https://github.com/LannaFeitoza"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LannaFeitoza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LannaFeitoza&layout=compact&langs_count=7&theme=radical"></img> </a> 
+
 
 <div> 
     <a href="mailto:lannafeitoza15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
