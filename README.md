@@ -13,6 +13,8 @@
   <a href="https://github.com/LannaFeitoza" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white target="_blank"></a> 
   <a href="https://br.linkedin.com/in/lanna-feitoza" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a> 
 
+![Snake animation](https://github.com/LannaFeitoza/LannaFeitoza/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
