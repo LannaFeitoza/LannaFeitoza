@@ -4,7 +4,7 @@
 
 <div align="center"> 
   <a href="https://github.com/LannaFeitoza">
-  <a href="https://github.com/LannaFeitoza"> <img  alt="LannaFeitoza's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LannaFeitoza?cardType=github&theme=highcontrast" /> </a>
+  <a href="https://github.com/LannaFeitoza"> <img  alt="LannaFeitoza's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LannaFeitoza?cardType=github&theme=synthwave" /> </a>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LannaFeitoza&layout=compact&theme=radical"/>
 </div>
 
